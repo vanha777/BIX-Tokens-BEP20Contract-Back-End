@@ -1,0 +1,16 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Context",
+  "sourceName": "contracts/BEP20.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220633a4f8e63157d0728c11171c7b9aa1e5aa21d8c6c0884a5e4973c0920070ba564736f6c63430008090033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220633a4f8e63157d0728c11171c7b9aa1e5aa21d8c6c0884a5e4973c0920070ba564736f6c63430008090033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
